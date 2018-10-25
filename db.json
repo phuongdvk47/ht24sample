@@ -1,0 +1,42 @@
+{
+  "serverinfo": {
+    "orderapi": {
+      "url": "http://localhost:8000",
+      "prefix": "",
+      "headers": {},
+      "rlt": {
+        "vertxeb": "http://localhost:8000/rltOrders"
+      }
+    },
+    "marketapi": {
+      "url": "http://banggia.mbs.com.vn",
+      "prefix": "",
+      "headers": {},
+      "rlt": {
+        "vertxeb": "http://banggia.mbs.com.vn/pbRltMarkets"
+      }
+    },
+    "notiapi": {
+      "url": "http://localhost:8200",
+      "prefix": "",
+      "headers": {},
+      "rlt": {
+        "vertxeb": "http://localhost:8200/rltnoti"
+      }
+    }
+    
+  },
+  "allowfeatures":[
+      "Dashboard",
+      "Dashboard_trade",
+      "Dashboard_marketwatch",
+      "Dashboard_custom",
+      "Transaction",
+      "Transaction_placenorder",
+      "Transaction_placecorder",
+      "Transaction_orderhistory",
+      "Transaction_cahsdispositpwithdraw",
+      "Transaction_cahstransfer",
+      ""
+    ]
+}
