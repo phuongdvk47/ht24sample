@@ -1,5 +1,10 @@
 {
   "serverinfo": {
+    "authapi": {
+      "url": "http://test-auth.mbs.com.vn",
+      "prefix": "",
+      "headers": {},
+    },
     "orderapi": {
       "url": "http://localhost:8000",
       "prefix": "",
