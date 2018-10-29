@@ -3,7 +3,9 @@
     "authapi": {
       "url": "https://test-auth.mbs.com.vn",
       "prefix": "",
-      "headers": {}
+      "headers": {
+        "Content-Type":"application/x-www-form-urlencoded",
+      }
     },
     "orderapi": {
       "url": "http://localhost:8000",
