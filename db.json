@@ -1,7 +1,7 @@
 {
   "serverinfo": {
     "authapi": {
-      "url": "http://test-auth.mbs.com.vn",
+      "url": "https://test-auth.mbs.com.vn",
       "prefix": "",
       "headers": {}
     },
