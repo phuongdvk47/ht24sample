@@ -8,27 +8,27 @@
       }
     },
     "orderapi": {
-      "url": "http://localhost:8000",
+      "url": "https://localhost:8000",
       "prefix": "",
       "headers": {},
       "rlt": {
-        "vertxeb": "http://localhost:8000/rltOrders"
+        "vertxeb": "https://localhost:8000/rltOrders"
       }
     },
     "marketapi": {
-      "url": "http://banggia.mbs.com.vn",
+      "url": "https://banggia.mbs.com.vn",
       "prefix": "",
       "headers": {},
       "rlt": {
-        "vertxeb": "http://banggia.mbs.com.vn/pbRltMarkets"
+        "vertxeb": "https://banggia.mbs.com.vn/pbRltMarkets"
       }
     },
     "notiapi": {
-      "url": "http://localhost:8200",
+      "url": "https://localhost:8200",
       "prefix": "",
       "headers": {},
       "rlt": {
-        "vertxeb": "http://localhost:8200/rltnoti"
+        "vertxeb": "https://localhost:8200/rltnoti"
       }
     }
     
